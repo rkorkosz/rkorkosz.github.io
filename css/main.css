@@ -1,0 +1,13 @@
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.front-photo {
+	text-align: center;
+	margin-top: 5px;
+}
+
+.front-photo img {
+	border-radius: 100%;
+	width: 170px;
+}
